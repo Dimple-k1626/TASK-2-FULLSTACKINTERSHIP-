@@ -7,7 +7,7 @@ It demonstrates both client-side validation and server-side validation while tem
 The project also includes a modern professional UI with icons and a success confirmation page.
 
 🚀 Features
-
+ 
 Modern responsive UI
  
 Inline CSS styling
